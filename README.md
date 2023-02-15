@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Is really important to hava a list of the things to do, actually is very easy planning and have a checklist of points, this give us the oportunity of priorize.
+In the actually with the remote work is really important to have a list of the things to do, actually is very easy planning and have a checklist of points, 
+this give us the oportunity of priorize and get to the goal
 
 The development of this project is in the following order:
      
